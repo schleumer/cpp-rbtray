@@ -172,3 +172,6 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+/x86
+/x64
